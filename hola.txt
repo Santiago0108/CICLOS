@@ -4,8 +4,5 @@ Prueba 3
 Pruebaaaa
 Prueba 33
 Segundo cambio del txt
-
-
 Ahora modifico en mi rama (Ricardo)
-
-
+quiero pola
